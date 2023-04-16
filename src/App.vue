@@ -1,7 +1,5 @@
 <script setup>
-import HelloWorld from "./components/HelloWorld.vue";
 import Home from "./components/Home.vue";
-import NavBar from "./components/NavBar.vue";
 </script>
 
 <script>
